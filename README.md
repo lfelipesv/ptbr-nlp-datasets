@@ -5,7 +5,7 @@ The datasets contained in this repository can be used for training character-lev
 
 Syllabification example:
 
-![syllabification-example](syllabification-example.png)
+![syllabification-example](syllabification-example.PNG)
 
 This repository contains the following datasets in UTF-8 format:
 
